@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ConnectionActive</key>
+		<true/>
+		<key>IORegistryEntryChildren</key>
+		<array>
+			<dict>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportComponentCCUSBPDSOPp</string>
+				<key>Metadata</key>
+				<dict>
+					<key>Product ID</key>
+					<integer>12487</integer>
+					<key>Product Type</key>
+					<integer>3</integer>
+					<key>Product Type Description</key>
+					<string>Passive Cable</string>
+					<key>VDO Count</key>
+					<integer>4</integer>
+					<key>VDOs</key>
+					<array>
+						<data>
+						7xcAHA==
+						</data>
+						<data>
+						OAkAAA==
+						</data>
+						<data>
+						kAHHMA==
+						</data>
+						<data>
+						UigIEQ==
+						</data>
+					</array>
+					<key>Vendor ID</key>
+					<integer>6127</integer>
+					<key>bcdDevice</key>
+					<integer>400</integer>
+				</dict>
+				<key>Product ID</key>
+				<integer>12487</integer>
+				<key>Product Type</key>
+				<integer>3</integer>
+				<key>Product Type Description</key>
+				<string>Passive Cable</string>
+				<key>Specification Revision</key>
+				<integer>2</integer>
+				<key>Vendor ID</key>
+				<integer>6127</integer>
+			</dict>
+			<dict>
+				<key>IOObjectClass</key>
+				<string>IOPortFeaturePowerSource</string>
+				<key>Metadata</key>
+				<dict/>
+				<key>PowerSourceName</key>
+				<string>USB-PD</string>
+				<key>PowerSourceOptions</key>
+				<array>
+					<dict>
+						<key>Class</key>
+						<string>IOPortFeaturePowerSourceOptionFixed</string>
+						<key>Max Current (mA)</key>
+						<integer>3000</integer>
+						<key>Max Power (mW)</key>
+						<integer>45000</integer>
+						<key>UUID</key>
+						<string>7729F4B6-AC39-4846-8673-31E0EC5D7C13</string>
+						<key>Voltage (mV)</key>
+						<integer>15000</integer>
+					</dict>
+					<dict>
+						<key>Class</key>
+						<string>IOPortFeaturePowerSourceOptionFixed</string>
+						<key>Max Current (mA)</key>
+						<integer>4500</integer>
+						<key>Max Power (mW)</key>
+						<integer>90000</integer>
+						<key>UUID</key>
+						<string>AC85D6E6-51BE-4058-9455-ECD273F391C6</string>
+						<key>Voltage (mV)</key>
+						<integer>20000</integer>
+					</dict>
+					<dict>
+						<key>Class</key>
+						<string>IOPortFeaturePowerSourceOptionFixed</string>
+						<key>Max Current (mA)</key>
+						<integer>3000</integer>
+						<key>Max Power (mW)</key>
+						<integer>15000</integer>
+						<key>UUID</key>
+						<string>4B137472-C4E3-4C33-88C9-73195B8637BE</string>
+						<key>Voltage (mV)</key>
+						<integer>5000</integer>
+					</dict>
+					<dict>
+						<key>Class</key>
+						<string>IOPortFeaturePowerSourceOptionFixed</string>
+						<key>Max Current (mA)</key>
+						<integer>3000</integer>
+						<key>Max Power (mW)</key>
+						<integer>27000</integer>
+						<key>UUID</key>
+						<string>A1168D2A-3D34-4941-BD0D-A7C54CCBB094</string>
+						<key>Voltage (mV)</key>
+						<integer>9000</integer>
+					</dict>
+				</array>
+				<key>WinningPowerSourceOption</key>
+				<dict>
+					<key>Class</key>
+					<string>IOPortFeaturePowerSourceOptionFixed</string>
+					<key>Max Current (mA)</key>
+					<integer>4500</integer>
+					<key>Max Power (mW)</key>
+					<integer>90000</integer>
+					<key>UUID</key>
+					<string>AC85D6E6-51BE-4058-9455-ECD273F391C6</string>
+					<key>Voltage (mV)</key>
+					<integer>20000</integer>
+				</dict>
+			</dict>
+			<dict>
+				<key>IOObjectClass</key>
+				<string>IOPortFeaturePowerSource</string>
+				<key>Metadata</key>
+				<dict/>
+				<key>PowerSourceName</key>
+				<string>Brick ID</string>
+				<key>PowerSourceOptions</key>
+				<array>
+					<dict>
+						<key>Class</key>
+						<string>IOPortFeaturePowerSourceOptionFixed</string>
+						<key>Max Current (mA)</key>
+						<integer>500</integer>
+						<key>Max Power (mW)</key>
+						<integer>2500</integer>
+						<key>UUID</key>
+						<string>0FEE80A4-78FD-4019-8A13-A659A74C152E</string>
+						<key>Voltage (mV)</key>
+						<integer>5000</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>IOObjectClass</key>
+				<string>IOPortFeaturePowerSource</string>
+				<key>Metadata</key>
+				<dict/>
+				<key>PowerSourceName</key>
+				<string>TypeC</string>
+				<key>PowerSourceOptions</key>
+				<array>
+					<dict>
+						<key>Class</key>
+						<string>IOPortFeaturePowerSourceOptionFixed</string>
+						<key>Max Current (mA)</key>
+						<integer>3000</integer>
+						<key>Max Power (mW)</key>
+						<integer>15000</integer>
+						<key>UUID</key>
+						<string>FD1C9E40-F2AA-4733-8957-115EBEA515EA</string>
+						<key>Voltage (mV)</key>
+						<integer>5000</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Active</key>
+				<true/>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportStateDisplayPort</string>
+				<key>LaneCount</key>
+				<integer>4</integer>
+				<key>LinkRateDescription</key>
+				<string>5.4 Gbps (HBR2)</string>
+				<key>Metadata</key>
+				<dict>
+					<key>DFP Type</key>
+					<integer>0</integer>
+					<key>DFP Type Description</key>
+					<string>DP</string>
+					<key>ManufacturerName</key>
+					<string>DEL</string>
+					<key>ProductID</key>
+					<integer>41231</integer>
+					<key>ProductName</key>
+					<string>Dell U4919DW</string>
+					<key>SinkDeviceID</key>
+					<string>ABCDEF</string>
+					<key>SinkDeviceOUI</key>
+					<data>
+					ABS5
+					</data>
+					<key>Week of Manufacture</key>
+					<integer>39</integer>
+					<key>Year of Manufacture</key>
+					<integer>2020</integer>
+				</dict>
+				<key>ProductName</key>
+				<string>Dell U4919DW</string>
+				<key>Tunneled</key>
+				<false/>
+			</dict>
+		</array>
+		<key>PortDescription</key>
+		<string>Port-USB-C@1</string>
+		<key>PortNumber</key>
+		<integer>1</integer>
+		<key>PortTypeDescription</key>
+		<string>USB-C</string>
+		<key>SOP UVDM Update Count</key>
+		<integer>2</integer>
+		<key>TransportsActive</key>
+		<array>
+			<string>CC</string>
+			<string>USB2</string>
+			<string>DisplayPort</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ConnectionActive</key>
+		<true/>
+		<key>IORegistryEntryChildren</key>
+		<array/>
+		<key>PortDescription</key>
+		<string>Port-USB-C@2</string>
+		<key>PortNumber</key>
+		<integer>2</integer>
+		<key>PortTypeDescription</key>
+		<string>USB-C</string>
+		<key>SOP UVDM Update Count</key>
+		<integer>0</integer>
+		<key>TransportsActive</key>
+		<array>
+			<string>CC</string>
+			<string>USB3</string>
+		</array>
+	</dict>
+	<dict>
+		<key>ConnectionActive</key>
+		<false/>
+		<key>IORegistryEntryChildren</key>
+		<array/>
+		<key>PortDescription</key>
+		<string>Port-MagSafe 3@1</string>
+		<key>PortNumber</key>
+		<integer>1</integer>
+		<key>PortTypeDescription</key>
+		<string>MagSafe 3</string>
+		<key>SOP UVDM Update Count</key>
+		<integer>0</integer>
+		<key>TransportsActive</key>
+		<array/>
+	</dict>
+</array>
+</plist>

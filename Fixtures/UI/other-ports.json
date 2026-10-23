@@ -1,0 +1,108 @@
+[
+  {
+    "id": "Port-MagSafe 3@1",
+    "name": "MagSafe cable",
+    "port": "MagSafe 3",
+    "kind": "magsafe",
+    "power": "34.8 W",
+    "link": "CC",
+    "facts": [
+      {
+        "name": "Selected power option",
+        "value": "20 V · 1.74 A · 34.8 W"
+      }
+    ],
+    "details": "Illustrative MagSafe connection",
+    "charger": {
+      "name": "35W USB-C Power Adapter",
+      "power": "35 W",
+      "charging": true,
+      "facts": [
+        {
+          "name": "Charger rating",
+          "value": "35 W"
+        },
+        {
+          "name": "Mac power input",
+          "value": "34.0 W"
+        },
+        {
+          "name": "Charger manufacturer",
+          "value": "Apple Inc."
+        }
+      ]
+    },
+    "chip": "34.8 W",
+    "tone": "green",
+    "verdict": "Charging",
+    "powering": true
+  },
+  {
+    "id": "Port-USB-C@1",
+    "name": "USB-C cable",
+    "port": "USB-C · Port 1",
+    "kind": "cable",
+    "chip": "Connected",
+    "tone": "neutral",
+    "speed": "USB4 Gen 3 · 40 Gbps",
+    "verdict": "Connected",
+    "link": "USB3",
+    "facts": [
+      {
+        "name": "Cable speed",
+        "value": "USB4 Gen 3 · 40 Gbps"
+      },
+      {
+        "name": "Cable vendor ID",
+        "value": "0x05AC"
+      },
+      {
+        "name": "Cable type",
+        "value": "Passive e-marked"
+      }
+    ],
+    "details": "Illustrative Apple e-marker"
+  },
+  {
+    "id": "hdmi:1",
+    "name": "Studio Display",
+    "port": "HDMI port",
+    "kind": "hdmi",
+    "chip": "Display connected",
+    "verdict": "Connected",
+    "link": "HDMI",
+    "facts": [
+      {
+        "name": "Display link",
+        "value": "8.1 Gbps (HBR3)"
+      },
+      {
+        "name": "Display lanes",
+        "value": "4"
+      }
+    ],
+    "details": "Port: HDMI 1",
+    "tone": "neutral"
+  },
+  {
+    "id": "audio:headphones",
+    "name": "Headphones",
+    "port": "3.5 mm headphone jack",
+    "kind": "headphones",
+    "chip": "Current output",
+    "verdict": "Connected",
+    "link": "Analog audio",
+    "facts": [
+      {
+        "name": "Audio output",
+        "value": "Current output"
+      },
+      {
+        "name": "Sample rate",
+        "value": "48 kHz"
+      }
+    ],
+    "details": "Audio output: Current output\nSample rate: 48 kHz",
+    "tone": "neutral"
+  }
+]

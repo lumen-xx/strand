@@ -1,0 +1,11 @@
+[
+  {
+    "id": "usb1",
+    "name": "USB-C cable",
+    "port": "USB-C \u00b7 Port 1",
+    "kind": "cable",
+    "chip": "Connected",
+    "tone": "neutral",
+    "details": "Connection active: true\nTransport active: CC\nCable identity: not supplied"
+  }
+]

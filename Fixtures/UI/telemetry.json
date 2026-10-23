@@ -1,0 +1,51 @@
+[
+  {
+    "id": "usb1",
+    "name": "USB-C cable",
+    "port": "USB-C \u00b7 Port 1",
+    "kind": "cable",
+    "chip": "Limits charging to 60 W",
+    "tone": "amber",
+    "speed": "40 Gbps",
+    "power": "60 W",
+    "verdict": "Limited",
+    "summary": "The cable is the bottleneck: it supports 60 W, your charger offers 96 W.",
+    "details": "Illustrative cable: USB 2.0 / 3 A / 60 W",
+    "spoken": "USB-C cable, limits charging to 60 watts",
+    "facts": [
+      {
+        "name": "Cable current",
+        "value": "3 A"
+      },
+      {
+        "name": "Cable vendor ID",
+        "value": "0x1234"
+      },
+      {
+        "name": "Cable product ID",
+        "value": "0x5678"
+      },
+      {
+        "name": "Cable speed",
+        "value": "40 Gbps"
+      }
+    ],
+    "profiles": [
+      {
+        "id": 0,
+        "value": "5 V \u00b7 3 A \u00b7 15 W",
+        "active": false
+      },
+      {
+        "id": 1,
+        "value": "20 V \u00b7 3 A \u00b7 60 W",
+        "active": true
+      },
+      {
+        "id": 2,
+        "value": "20 V \u00b7 4.8 A \u00b7 96 W",
+        "active": false
+      }
+    ]
+  }
+]

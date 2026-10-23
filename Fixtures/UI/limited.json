@@ -1,0 +1,29 @@
+[
+  {
+    "id": "usb1",
+    "name": "USB-C cable",
+    "port": "USB-C \u00b7 Port 1",
+    "kind": "cable",
+    "chip": "Limits charging to 60 W",
+    "tone": "amber",
+    "speed": "480 Mbps",
+    "power": "60 W",
+    "verdict": "Limited",
+    "summary": "The cable is the bottleneck: it supports 60 W, your charger offers 96 W.",
+    "details": "Illustrative cable: USB 2.0 / 3 A / 60 W",
+    "spoken": "USB-C cable, limits charging to 60 watts"
+  },
+  {
+    "id": "usb2",
+    "name": "96 W charger",
+    "port": "USB-C \u00b7 Port 2",
+    "kind": "charger",
+    "chip": "Charging 96 W",
+    "tone": "green",
+    "power": "96 W",
+    "verdict": "Charging",
+    "summary": "The charger supplies the requested power.",
+    "details": "Illustrative Power Delivery profiles:\n5 V \u00b7 3 A \u00b7 15 W\n9 V \u00b7 3 A \u00b7 27 W\n15 V \u00b7 3 A \u00b7 45 W\nActive: 20 V \u00b7 4.8 A \u00b7 96 W",
+    "spoken": "96 watt charger, charging, 96 watts"
+  }
+]

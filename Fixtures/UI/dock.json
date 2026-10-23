@@ -1,0 +1,95 @@
+[
+  {
+    "id": "Port-USB-C@1",
+    "name": "CalDigit TS4",
+    "port": "USB-C · Port 1",
+    "kind": "cable",
+    "chip": "Connected",
+    "tone": "neutral",
+    "speed": "USB4 Gen 3 · 40 Gbps",
+    "verdict": "Connected",
+    "link": "CIO, USB3",
+    "facts": [
+      {
+        "name": "Cable speed",
+        "value": "USB4 Gen 3 · 40 Gbps"
+      }
+    ],
+    "details": "Illustrative Thunderbolt dock",
+    "dock": {
+      "kind": "dock",
+      "maker": "CalDigit, Inc.",
+      "model": "TS4",
+      "link": "10 Gbps",
+      "devices": [
+        {
+          "name": "SteelSeries Arctis 5",
+          "value": "12 Mbps · SteelSeries",
+          "kind": "audio"
+        },
+        {
+          "name": "MINI60HE MAX",
+          "value": "480 Mbps · KEYBOARD",
+          "kind": "keyboard"
+        },
+        {
+          "name": "Pulsar X2 v3",
+          "value": "12 Mbps · Pulsar",
+          "kind": "mouse"
+        },
+        {
+          "name": "Mass Storage Device",
+          "value": "5 Gbps · Generic",
+          "kind": "storage"
+        },
+        {
+          "name": "AX88179A",
+          "value": "5 Gbps · ASIX"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Port-USB-C@2",
+    "name": "USB-C hub",
+    "port": "USB-C · Port 2",
+    "kind": "cable",
+    "chip": "Connected",
+    "tone": "neutral",
+    "verdict": "Connected",
+    "link": "USB3",
+    "details": "Illustrative USB hub",
+    "dock": {
+      "kind": "hub",
+      "link": "5 Gbps",
+      "devices": [
+        {
+          "name": "USB Flash Drive",
+          "value": "5 Gbps · Generic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ethernet:en6",
+    "name": "Ethernet cable",
+    "port": "AX88179A · en6",
+    "kind": "ethernet",
+    "chip": "1 Gbps link",
+    "tone": "neutral",
+    "verdict": "Connected",
+    "link": "Ethernet",
+    "facts": [
+      {
+        "name": "Link speed",
+        "value": "1 Gbps"
+      },
+      {
+        "name": "Interface",
+        "value": "en6"
+      }
+    ],
+    "details": "Link speed: 1 Gbps\nInterface: en6",
+    "adapter": "AX88179A"
+  }
+]

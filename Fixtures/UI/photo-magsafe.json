@@ -1,0 +1,12 @@
+[
+  {
+    "id": "photo-magsafe",
+    "name": "MagSafe cable",
+    "port": "MagSafe",
+    "kind": "magsafe",
+    "chip": "Connected",
+    "tone": "neutral",
+    "details": "Illustration: edited overhead category image",
+    "power": "140 W"
+  }
+]

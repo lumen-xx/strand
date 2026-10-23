@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ConnectionActive</key>
+		<true/>
+		<key>IORegistryEntryChildren</key>
+		<array>
+			<dict>
+				<key>IOObjectClass</key>
+				<string>IOPortTransportComponentCCUSBPDSOPp</string>
+				<key>Metadata</key>
+				<dict>
+					<key>VDOs</key>
+					<array>
+						<integer>402657844</integer>
+						<integer>0</integer>
+						<integer>1450704896</integer>
+						<integer>6291491</integer>
+					</array>
+				</dict>
+			</dict>
+			<dict>
+				<key>IOObjectClass</key>
+				<string>IOPortFeaturePowerSource</string>
+				<key>PowerSourceName</key>
+				<string>USB-PD</string>
+				<key>PowerSourceOptions</key>
+				<array>
+					<dict>
+						<key>Max Current (mA)</key>
+						<integer>3000</integer>
+						<key>Voltage (mV)</key>
+						<integer>5000</integer>
+					</dict>
+					<dict>
+						<key>Max Current (mA)</key>
+						<integer>4800</integer>
+						<key>Voltage (mV)</key>
+						<integer>20000</integer>
+					</dict>
+				</array>
+				<key>WinningPowerSourceOption</key>
+				<dict>
+					<key>Max Current (mA)</key>
+					<integer>3000</integer>
+					<key>Voltage (mV)</key>
+					<integer>20000</integer>
+				</dict>
+			</dict>
+		</array>
+		<key>PortDescription</key>
+		<string>Port-USB-C@1</string>
+		<key>PortNumber</key>
+		<integer>1</integer>
+		<key>PortTypeDescription</key>
+		<string>USB-C</string>
+		<key>TransportsActive</key>
+		<array>
+			<string>CC</string>
+			<string>USB4</string>
+		</array>
+	</dict>
+</array>
+</plist>

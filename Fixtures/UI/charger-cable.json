@@ -1,0 +1,29 @@
+[
+  {
+    "id": "usb2",
+    "name": "96 W charger",
+    "port": "USB-C \u00b7 Port 2",
+    "kind": "charger",
+    "chip": "Charging 96 W",
+    "tone": "green",
+    "power": "96 W",
+    "verdict": "Charging",
+    "summary": "The charger supplies the requested power.",
+    "details": "Illustrative Power Delivery profiles:\n5 V \u00b7 3 A \u00b7 15 W\n9 V \u00b7 3 A \u00b7 27 W\n15 V \u00b7 3 A \u00b7 45 W\nActive: 20 V \u00b7 4.8 A \u00b7 96 W",
+    "spoken": "96 watt charger, charging, 96 watts"
+  },
+  {
+    "id": "usb1",
+    "name": "USB-C cable",
+    "port": "USB-C \u00b7 Port 1",
+    "kind": "cable",
+    "chip": "Fast \u00b7 40 Gbps",
+    "tone": "green",
+    "speed": "40 Gbps",
+    "power": "100 W",
+    "verdict": "Fast",
+    "summary": "The cable supports this connection\u2019s speed and power.",
+    "details": "Illustrative cable rating: 40 Gbps / 5 A / 100 W\nVendor: Example\nRaw values: illustrative",
+    "spoken": "USB-C cable, fast, 40 gigabits"
+  }
+]

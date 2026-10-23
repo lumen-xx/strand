@@ -1,0 +1,14 @@
+[
+  {
+    "id": "details-table",
+    "name": "USB-C cable",
+    "port": "USB-C \u00b7 Port 1",
+    "kind": "cable",
+    "chip": "Connected",
+    "power": "19.98 W",
+    "powerExplanation": "Selected USB-PD power option, not instantaneous power draw.",
+    "link": "CC",
+    "details": "SOP UVDM Update Count: 0\nPD profile: 5 V \u00b7 3 A \u00b7 15 W\nPD profile: 9 V \u00b7 2.22 A \u00b7 19.98 W\nSelected power option: 9 V \u00b7 2.22 A \u00b7 19.98 W",
+    "tone": "neutral"
+  }
+]

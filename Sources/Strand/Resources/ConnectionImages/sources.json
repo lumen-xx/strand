@@ -1,0 +1,129 @@
+{
+  "usb-c-light": {
+    "model": "USB-C Charging Cable (Type-C – Type-C)",
+    "page": "https://sketchfab.com/3d-models/usb-c-charging-cable-type-c-type-c-39cb1374a9c24cfa815f8efe86a14f61",
+    "author": "alessandroparca",
+    "license": "CC BY 4.0",
+    "note": "Blender render: the model's plugs, recoloured white, on a procedural braided cable coiled 1.5 turns"
+  },
+  "usb-c-dark": {
+    "model": "USB-C Charging Cable (Type-C – Type-C)",
+    "page": "https://sketchfab.com/3d-models/usb-c-charging-cable-type-c-type-c-39cb1374a9c24cfa815f8efe86a14f61",
+    "author": "alessandroparca",
+    "license": "CC BY 4.0",
+    "note": "Blender render: the model's plugs, recoloured black, on a procedural braided cable coiled 1.5 turns"
+  },
+  "thunderbolt-4-light": {
+    "model": "USB-C Charging Cable (Type-C – Type-C)",
+    "page": "https://sketchfab.com/3d-models/usb-c-charging-cable-type-c-type-c-39cb1374a9c24cfa815f8efe86a14f61",
+    "author": "alessandroparca",
+    "license": "CC BY 4.0",
+    "note": "Blender render: the model's plugs, recoloured white with a longer housing, on a procedural braided cable coiled 1.5 turns"
+  },
+  "thunderbolt-4-dark": {
+    "model": "USB-C Charging Cable (Type-C – Type-C)",
+    "page": "https://sketchfab.com/3d-models/usb-c-charging-cable-type-c-type-c-39cb1374a9c24cfa815f8efe86a14f61",
+    "author": "alessandroparca",
+    "license": "CC BY 4.0",
+    "note": "Blender render: the model's plugs, recoloured black with a longer housing, on a procedural braided cable coiled 1.5 turns"
+  },
+  "thunderbolt-5-light": {
+    "model": "USB-C Charging Cable (Type-C – Type-C)",
+    "page": "https://sketchfab.com/3d-models/usb-c-charging-cable-type-c-type-c-39cb1374a9c24cfa815f8efe86a14f61",
+    "author": "alessandroparca",
+    "license": "CC BY 4.0",
+    "note": "Blender render: the model's plugs, recoloured white with a longer housing and a metal collar, on a procedural braided cable coiled 1.5 turns"
+  },
+  "thunderbolt-5-dark": {
+    "model": "USB-C Charging Cable (Type-C – Type-C)",
+    "page": "https://sketchfab.com/3d-models/usb-c-charging-cable-type-c-type-c-39cb1374a9c24cfa815f8efe86a14f61",
+    "author": "alessandroparca",
+    "license": "CC BY 4.0",
+    "note": "Blender render: the model's plugs, recoloured black with a longer housing and a metal collar, on a procedural braided cable coiled 1.5 turns"
+  },
+  "magsafe-light": {
+    "model": null,
+    "note": "Blender render: MagSafe-style plug modelled for Strand (aluminium body, black magnetic face, five pins) on a white procedural braided cable"
+  },
+  "magsafe-dark": {
+    "model": null,
+    "note": "Blender render: MagSafe-style plug modelled for Strand on a black procedural braided cable"
+  },
+  "charger-light": {
+    "model": "iPhone USB-C Charger Box",
+    "page": "https://sketchfab.com/3d-models/iphone-usb-c-charger-box-ff49b092a14f4f2f8752805dcf511e60",
+    "author": "DesignerKhi",
+    "license": "CC BY 4.0",
+    "note": "Blender render of the USB-C power adapter, recoloured white (printed text removed), three-quarter side view with the pins and port"
+  },
+  "charger-dark": {
+    "model": "iPhone USB-C Charger Box",
+    "page": "https://sketchfab.com/3d-models/iphone-usb-c-charger-box-ff49b092a14f4f2f8752805dcf511e60",
+    "author": "DesignerKhi",
+    "license": "CC BY 4.0",
+    "note": "Blender render of the USB-C power adapter, recoloured black (printed text removed), three-quarter side view with the pins and port"
+  },
+  "ethernet": {
+    "model": "Internet cable | Ethernet | Lan",
+    "page": "https://sketchfab.com/3d-models/internet-cable-ethernet-lan-167ef9e9ef7c45e89b083e946885d194",
+    "author": "Yan (yanbatsman)",
+    "license": "CC BY 4.0",
+    "note": "Blender render: the model's RJ45 plug, graphite boot, on a procedural braided cable coiled 1.5 turns; both appearances"
+  },
+  "keyboard-light": {
+    "model": "VortexSeries Mechanical Keyboard GT-8 / NJ80",
+    "page": "https://sketchfab.com/3d-models/vortexseries-mechanical-keyboard-gt-8-nj80-02d16e9dae72419aa24ec6788318f92b",
+    "author": "Rendy K",
+    "license": "CC BY 4.0",
+    "note": "Blender render, top view, every keycap and the case recoloured white"
+  },
+  "keyboard-dark": {
+    "model": "VortexSeries Mechanical Keyboard GT-8 / NJ80",
+    "page": "https://sketchfab.com/3d-models/vortexseries-mechanical-keyboard-gt-8-nj80-02d16e9dae72419aa24ec6788318f92b",
+    "author": "Rendy K",
+    "license": "CC BY 4.0",
+    "note": "Blender render, top view, every keycap and the case recoloured black"
+  },
+  "hub-light": {
+    "model": "USB-C Charging Cable (Type-C – Type-C)",
+    "page": "https://sketchfab.com/3d-models/usb-c-charging-cable-type-c-type-c-39cb1374a9c24cfa815f8efe86a14f61",
+    "author": "alessandroparca",
+    "license": "CC BY 4.0",
+    "note": "Blender render, straight top view: aluminium USB-C hub modelled for Strand; only its lead's plug comes from this model, recoloured white. Also used for every dock"
+  },
+  "hub-dark": {
+    "model": "USB-C Charging Cable (Type-C – Type-C)",
+    "page": "https://sketchfab.com/3d-models/usb-c-charging-cable-type-c-type-c-39cb1374a9c24cfa815f8efe86a14f61",
+    "author": "alessandroparca",
+    "license": "CC BY 4.0",
+    "note": "Blender render, straight top view: the same hub in space grey with a black lead and plug. Also used for every dock"
+  },
+  "headphones-light": {
+    "model": "Sony wh 1000xm5",
+    "page": "https://sketchfab.com/3d-models/sony-wh-1000xm5-6012e71450874d7594968a607d9fffce",
+    "author": "Angelica_Andreasson",
+    "license": "CC BY 4.0",
+    "note": "Blender render, straight front view, recoloured white; headband lettering, button icons and LEDs removed"
+  },
+  "headphones-dark": {
+    "model": "Sony wh 1000xm5",
+    "page": "https://sketchfab.com/3d-models/sony-wh-1000xm5-6012e71450874d7594968a607d9fffce",
+    "author": "Angelica_Andreasson",
+    "license": "CC BY 4.0",
+    "note": "Blender render, straight front view, recoloured black; headband lettering, button icons and LEDs removed"
+  },
+  "mouse-light": {
+    "model": "Computer mouse",
+    "page": "https://sketchfab.com/3d-models/computer-mouse-6e7940d9e2144efeae3468a906f27e07",
+    "author": "zhe_kan",
+    "license": "CC BY 4.0",
+    "note": "Blender render, top view, recoloured white; printed logo and accents removed"
+  },
+  "mouse-dark": {
+    "model": "Computer mouse",
+    "page": "https://sketchfab.com/3d-models/computer-mouse-6e7940d9e2144efeae3468a906f27e07",
+    "author": "zhe_kan",
+    "license": "CC BY 4.0",
+    "note": "Blender render, top view, recoloured satin black; printed logo and accents removed"
+  }
+}

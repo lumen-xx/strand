@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Port-USB-C@1",
+    "name": "USB-C monitor",
+    "port": "USB-C \u00b7 Port 1",
+    "kind": "cable",
+    "chip": "Connected",
+    "tone": "neutral",
+    "link": "CC, USB2, DisplayPort",
+    "details": ""
+  },
+  {
+    "id": "Port-USB-C@2",
+    "name": "USB-C SSD",
+    "port": "USB-C \u00b7 Port 2",
+    "kind": "cable",
+    "chip": "Connected",
+    "tone": "neutral",
+    "link": "CC, USB3",
+    "details": ""
+  }
+]
